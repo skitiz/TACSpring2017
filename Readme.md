@@ -1,6 +1,8 @@
 # Theory of Automata and Computing #
 This repository contains notes about the Theory of Automata and Computation in Spring 2017. It is for 3 credits. There are no prerequistites to the class. It is a core class for grad school in computer science. 
 
+_PRO TIP : THERE ARE 4 EXAMS, BUT YOU ONLY HAVE TO GIVE 3. SO MAKE SURE YOU GET YOUR FIRST 3 ON POINT._
+
 __THIS CLASS WILL BE USING D2L. DO KEEP CHECKING OFTEN FOR ANOUNCEMENTS.__
 
 ## About the instructor ##
