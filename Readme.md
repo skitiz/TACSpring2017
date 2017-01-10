@@ -1,3 +1,4 @@
+
 # Theory of Automata and Computing #
 This repository contains notes about the Theory of Automata and Computation in Spring 2017. It is for 3 credits. There are no prerequistites to the class. It is a core class for grad school in computer science. 
 
@@ -54,4 +55,10 @@ __3/29/17__ | __EXAM 3__ | __CHAPTERS 5,6 AND 8__ |
 4/12/17 | 10 | Intractable Problems(P vs NP) |
 4/17/19 | 10 | Intractable Problems(P vs NP) |
 __4/24-26/19__ | __FINAL PROJECT DEMO__ | __ALL GROUPS__ | 
-__5/1/17__ | __FINAL EXAM__ | __CHAPTERS 9 AND 10 |
+__5/1/17__ | __FINAL EXAM__ | __CHAPTERS 9 AND 10__ |
+
+## Student Evaluation ##
+ There are 4 exams each of 250. You are required to take three exams and the best of four would be counted.
+ There is a project/presentation for 25% of the final grade. 5% for the prelim report and 20% for the final report and presentation.
+ 
+ __ The course grading is as follows ": A[90>], B[80>], C[70>], D[60>], F[600<] __
