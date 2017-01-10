@@ -61,4 +61,4 @@ __5/1/17__ | __FINAL EXAM__ | __CHAPTERS 9 AND 10__ |
  There are 4 exams each of 250. You are required to take three exams and the best of four would be counted.
  There is a project/presentation for 25% of the final grade. 5% for the prelim report and 20% for the final report and presentation.
  
- __ The course grading is as follows ": A[90>], B[80>], C[70>], D[60>], F[600<] __
+__Refer to D2L for grading__
