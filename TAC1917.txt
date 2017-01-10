@@ -1,0 +1,22 @@
+Hey! Welcome to Theory of Computation at KSU Marietta Campus at J201 at Atrium Building on Mondays and Wednesdays from 1830 hours to 1945 hours.
+
+This class WILL be using D2L website.
+
+Textbook is required. 
+Use D2L mail to communicate about the course : ejung4@kennesaw.edu
+Office Hours : 2:15PM to 3:30PM and 4:45PM to 6:30OM on Mondays and Wednesdays or by appointment ( J385 )
+
+Check D2L for required textbook, do issue it today. Do check the ISBN to double check.
+
+The presentation is where you could lose marks but the exams are where you could score. Try to aim for 700+ out of 750. Try to get as many points as you can for your first 3 exams.
+
+The course is graded on A, B, C or D.
+But the A+, A, and A- is for your satisfaction.
+
+! You could ask the instructor for bumping up your grade in the case of 'bridge' grades. So keep a good reputation in the class. !
+
+Using individual alphabets we can create combinations. These are called Strings. And they are infinite. Set of strings is called a language.
+
+There are some machines which cannot be represented by Turing Machines. There are two ways to represent these types of machines. We will prove this called Diagonalization.
+
+
