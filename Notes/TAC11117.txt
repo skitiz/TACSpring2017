@@ -1,0 +1,44 @@
+TAC Class 2.
+
+Why is this course important?
+Abstract computing model
+Way of thinking
+Answer important questions
+
+Applications
+Regular Expressions
+	Regular expressions in UNIX
+	Finding patterns in text
+	Context free grammars are used to describe the syntax of essentially every programming language, one of the uses in CFG is compilers
+	Another application is using it in circuit and the theory is used in model-checking
+
+Automata and Complexity
+	Some problems are solvable and some arent solvable without the use of extensive resources
+	We use TAC to confront the limitations of what software can do
+		Undecidable - no program can solve it
+		Intractable - there are programs to solve it but no fast programs
+
+	These topics are most complex yet the most important for us to understand by the end of the semester.
+	What can a computer do
+		The study of this Q : Undecidability
+	What can a computer do efficiently
+		The study of this Q : Intractibility
+
+Proofs
+	For some problems it requires formal proof.
+	For some problems the results without formal proof should be used;
+		Properties of regular languages
+		Closure properties
+		Decision properties
+
+Discrete Math
+	Proof by induction (The most important proving technique) Induction on what? Steps? Structures? The key word comes later.
+	Proof by contrapositive -> If A then B OR If NOT B then NOT A
+	Proof by contraction -> A iff B, "If A then B" and "If B, then A"
+
+Proof by induction
+	Problem formulation, formulating a problem like this will provide us with a more complete base
+	Induction basis,
+	Induction Hypothesis
+	Induction Step
+	
