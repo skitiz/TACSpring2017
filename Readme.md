@@ -6,6 +6,8 @@ _PRO TIP : THERE ARE 4 EXAMS, BUT YOU ONLY HAVE TO GIVE 3. SO MAKE SURE YOU GET 
 
 __THIS CLASS WILL BE USING D2L. DO KEEP CHECKING OFTEN FOR ANOUNCEMENTS.__
 
+----
+
 ## About the instructor ##
 The instructor is Edward Jung.
 
@@ -17,16 +19,20 @@ _Key Note_ : For course related materials please contact him at the D2L email. W
 
 The office hours are Monday and Wednesday, 1430 hours to 1545 hours and 1645 and 1830 hours.
 
+---
+
 ## The Syllabus ##
 * Part I: Finite Automata, Regular Expressions, Regular Languages
 * Part II: Pushdown Automata & Context Free Languages
 * Part III: Turing Machines & Undecidability
 * Part IV: Intractable Problems(P vs NP; NP-completeness)
 
+---
+
 ## Schedule ##
 Dates   | Chapters  | Topics  |
 ------- | -------------- | ------- | 
-1/9/17  | 1              | Intro to TAC|
+1/9/17  | 1              | [Intro to TAC](https://github.com/skitiz/TACSpring2017/blob/master/Notes/TAC1917.txt)|
 1/11/17 | 1              | Intro to TAC|
 1/16/17 | Martin Luther King Day | No class |
 1/18/17 | 2 | Finite Automata |
@@ -56,6 +62,8 @@ __3/29/17__ | __EXAM 3__ | __CHAPTERS 5,6 AND 8__ |
 4/17/19 | 10 | Intractable Problems(P vs NP) |
 __4/24-26/19__ | __FINAL PROJECT DEMO__ | __ALL GROUPS__ | 
 __5/1/17__ | __FINAL EXAM__ | __CHAPTERS 9 AND 10__ |
+
+---
 
 ## Student Evaluation ##
  There are 4 exams each of 250. You are required to take three exams and the best of four would be counted.
